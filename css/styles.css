@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(197, 230, 219);
+    margin-left: 30px;
+}
+
+.inputs {
+    display: flex;
+    
+}
